@@ -3,7 +3,7 @@
 ## Slide decks containing data analysis
 [2021 UK Exports to the EU](https://github.com/Rebeccachristman/Presentations/blob/main/2021-W13-UK-Exports-to-the-EU.pdf)
 
-[2017 Utah Homess Vetrans](https://github.com/Rebeccachristman/Presentations/blob/main/UtahHomelessVeterans2017.pptx)
+[2017 Utah Homess Vetrans](https://github.com/Rebeccachristman/Presentations/blob/main/UtahHomelessVeterans2017.pdf)
 
 
 
